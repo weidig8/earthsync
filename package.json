@@ -1,0 +1,1 @@
+{\n  "name": "earthsync",\n  "private": true,\n  "workspaces": [\n    "mobile/*",\n    "backend/*"\n  ]\n}
